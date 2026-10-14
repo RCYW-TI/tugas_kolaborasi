@@ -6,3 +6,5 @@ file idea1 dan idea2 memiliki isi yang beda, saat mencoba merge fitur-a dan fitu
   Automatic merge failed; fix conflicts and then commit the result.
 buka notepad idea1.txt dan idea 2.txt dan perbaiki secara manual, lalu di commit
 lalu setelah di merge, di merge dengan master (tidak ada konflik)
+
+sebelum dan sesudah git pull: adanya text "you moron." di idea3.txt
